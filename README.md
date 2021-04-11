@@ -1,6 +1,6 @@
 # msa_utilities 
 
-This software is provided as documentation for the manuscript "Using Neisseria meningitidis genomic diversity to inform outbreak strain identification". It is provided as-is, with no guarantee of usability.
+This software is provided as documentation for the manuscript "Using Neisseria meningitidis genomic diversity to inform outbreak strain identification". It is provided as is, with no guarantee of usability.
 
 To prepare alignments for phylogenetic analysis, the following two scripts were called:
 
