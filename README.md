@@ -4,7 +4,7 @@ This software is provided as documentation for the manuscript "Using Neisseria m
 
 To prepare alignments for phylogenetic analysis, the following two scripts were called:
 
-mask_mapped_aln.py: This generates a masked alignment file from the alignment file produced by snippy-clean_full_aln. It also produces an partition file for RAxML providing informatino ascertainment bias correction.
+mask_mapped_aln.py: This generates a masked alignment file from the alignment file produced by snippy-clean_full_aln. It also produces an partition file for RAxML providing information for ascertainment bias correction.
 
 mask_mapped_aln.py alignment_file
 
